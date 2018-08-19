@@ -1,0 +1,300 @@
+stroka + 0
+stroka + 0
+stroka + 0
+stroka + 1
+stroka + 1
+stroka + 1
+stroka + 2
+stroka + 2
+stroka + 2
+stroka + 3
+stroka + 3
+stroka + 3
+stroka + 4
+stroka + 4stroka + 4
+
+stroka + 5
+stroka + 5
+stroka + 5
+stroka + 6
+stroka + 6
+stroka + 6
+stroka + 7
+stroka + 7stroka + 7
+
+stroka + 8
+stroka + 8
+stroka + 8
+stroka + 9
+stroka + 9stroka + 9
+
+stroka + 10
+stroka + 10
+stroka + 10
+stroka + 11
+stroka + 11stroka + 11
+
+stroka + 12
+stroka + 12
+stroka + 12
+stroka + 13
+stroka + 13
+stroka + 13
+stroka + 14
+stroka + 14
+stroka + 14
+stroka + 15
+stroka + 15
+stroka + 15
+stroka + 16
+stroka + 16
+stroka + 16
+stroka + 17
+stroka + 17
+stroka + 17
+stroka + 18
+stroka + 18
+stroka + 18
+stroka + 19
+stroka + 19stroka + 19
+
+stroka + 20
+stroka + 20
+stroka + 20
+stroka + 21stroka + 21
+stroka + 21
+
+stroka + 22
+stroka + 22stroka + 22
+
+stroka + 23
+stroka + 23
+stroka + 23
+stroka + 24
+stroka + 24stroka + 24
+
+stroka + 25
+stroka + 25stroka + 25
+
+stroka + 26
+stroka + 26
+stroka + 26
+stroka + 27
+stroka + 27
+stroka + 27
+stroka + 28
+stroka + 28stroka + 28
+
+stroka + 29stroka + 29stroka + 29
+
+
+stroka + 30
+stroka + 30stroka + 30
+
+stroka + 31
+stroka + 31stroka + 31
+
+stroka + 32
+stroka + 32
+stroka + 32
+stroka + 33
+stroka + 33stroka + 33
+
+stroka + 34
+stroka + 34stroka + 34
+
+stroka + 35
+stroka + 35
+stroka + 35
+stroka + 36
+stroka + 36
+stroka + 36
+stroka + 37
+stroka + 37stroka + 37
+
+stroka + 38
+stroka + 38
+stroka + 38
+stroka + 39
+stroka + 39
+stroka + 39
+stroka + 40
+stroka + 40
+stroka + 40
+stroka + 41
+stroka + 41
+stroka + 41
+stroka + 42
+stroka + 42
+stroka + 42
+stroka + 43
+stroka + 43
+stroka + 43
+stroka + 44
+stroka + 44
+stroka + 44
+stroka + 45
+stroka + 45
+stroka + 45
+stroka + 46
+stroka + 46
+stroka + 46
+stroka + 47
+stroka + 47stroka + 47
+
+stroka + 48
+stroka + 48
+stroka + 48
+stroka + 49
+stroka + 49
+stroka + 49
+stroka + 50stroka + 50stroka + 50
+
+
+stroka + 51
+stroka + 51
+stroka + 51
+stroka + 52stroka + 52
+
+stroka + 52
+stroka + 53
+stroka + 53
+stroka + 53
+stroka + 54
+stroka + 54
+stroka + 54
+stroka + 55
+stroka + 55
+stroka + 55
+stroka + 56
+stroka + 56
+stroka + 56
+stroka + 57
+stroka + 57
+stroka + 57
+stroka + 58
+stroka + 58
+stroka + 58
+stroka + 59
+stroka + 59
+stroka + 59
+stroka + 60
+stroka + 60
+stroka + 60
+stroka + 61
+stroka + 61
+stroka + 61
+stroka + 62
+stroka + 62
+stroka + 62
+stroka + 63
+stroka + 63
+stroka + 63
+stroka + 64
+stroka + 64
+stroka + 64
+stroka + 65
+stroka + 65
+stroka + 65
+stroka + 66
+stroka + 66
+stroka + 66
+stroka + 67
+stroka + 67
+stroka + 67
+stroka + 68
+stroka + 68
+stroka + 68
+stroka + 69
+stroka + 69
+stroka + 69
+stroka + 70
+stroka + 70
+stroka + 70
+stroka + 71
+stroka + 71
+stroka + 71
+stroka + 72
+stroka + 72
+stroka + 72
+stroka + 73
+stroka + 73
+stroka + 73
+stroka + 74stroka + 74
+
+stroka + 74
+stroka + 75
+stroka + 75
+stroka + 75
+stroka + 76
+stroka + 76
+stroka + 76
+stroka + 77stroka + 77
+
+stroka + 77
+stroka + 78
+stroka + 78
+stroka + 78
+stroka + 79
+stroka + 79
+stroka + 79
+stroka + 80
+stroka + 80
+stroka + 80
+stroka + 81
+stroka + 81
+stroka + 81
+stroka + 82
+stroka + 82
+stroka + 82
+stroka + 83
+stroka + 83
+stroka + 83
+stroka + 84
+stroka + 84
+stroka + 84
+stroka + 85stroka + 85
+
+stroka + 85
+stroka + 86
+stroka + 86
+stroka + 86
+stroka + 87
+stroka + 87
+stroka + 87
+stroka + 88
+stroka + 88
+stroka + 88
+stroka + 89
+stroka + 89
+stroka + 89
+stroka + 90
+stroka + 90
+stroka + 90
+stroka + 91
+stroka + 91
+stroka + 91
+stroka + 92
+stroka + 92
+stroka + 92
+stroka + 93
+stroka + 93
+stroka + 93
+stroka + 94
+stroka + 94
+stroka + 94
+stroka + 95
+stroka + 95
+stroka + 95
+stroka + 96
+stroka + 96
+stroka + 96
+stroka + 97
+stroka + 97
+stroka + 97
+stroka + 98stroka + 98
+
+stroka + 98
+stroka + 99
+stroka + 99
+stroka + 99
